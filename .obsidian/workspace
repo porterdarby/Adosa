@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "6cd7658c7397a7de",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d2697aa377f34bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "__Templates/Session Template.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08a7aad47e754c5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b1dae73606013d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bc038e7d6fc51a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e8820d4c17ea4ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64ac1558b4be80e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1965823d896c9134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f2b5cd34814548",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "__Templates/Session Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0d2697aa377f34bd",
+  "lastOpenFiles": [
+    "__Templates/Session Template.md",
+    "__Templates/Location Template.md",
+    "__Templates/Character Template.md",
+    "Locations/Adosa.md",
+    "Adosa.md"
+  ]
+}
