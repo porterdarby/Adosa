@@ -1,0 +1,1 @@
+Latest Session: [Session 0.00](../Campaign/Session%200.00.md)
