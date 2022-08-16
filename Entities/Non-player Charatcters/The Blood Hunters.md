@@ -1,0 +1,1 @@
+Werewolves from [Ichana](../../Locations/Ichana.md).

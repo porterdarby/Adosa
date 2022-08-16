@@ -1,5 +1,5 @@
 ---
-Aliases: [Dewind, Dewey Merigar]
+Aliases: [Dewende]
 ---
 
 **Dewind Merigar** is a [[race]] from [[continent]].

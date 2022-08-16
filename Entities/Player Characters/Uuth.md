@@ -2,9 +2,9 @@
 Aliases: []
 ---
 
-**Uuth** is a [[../../Topics/human]].
+**Uuth** is a [human](../../Topics/human.md).
 
-* Follows the [[../Non-player Charatcters/No-icorn]]
+* Follows the [No-icorn](../Non-player%20Charatcters/No-icorn.md)
 * Living as an urchin
 * Not one for direct torment
 * "I've found myself at the bottom of more bottles than I care to admit"
