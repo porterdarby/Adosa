@@ -9,3 +9,4 @@ And so, for the first time in a long time, the center of Adosa's affairs has shi
 # Legal System
 * Violent and property crimes are prosecuted with extremely prejudice.
 * Violent and property crimes without magic are seen as barbaric, therefore prosecuted well.
+

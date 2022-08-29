@@ -1,4 +1,4 @@
-**Everiel** is the country to the East of [Adosa](../Adosa.md). 
+**Everiel** is the country to the East of [Adosa](Adosa.md). 
 
 Recently, [Sorghan](Sorghan.md) has renewed importing food from the "agricultural" East.
 
