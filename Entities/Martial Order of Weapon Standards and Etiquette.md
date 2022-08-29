@@ -2,7 +2,7 @@
 aliases: MOWSE
 ---
 
-The Martial Order of Weapon Standards and Etiquette (MOWSE), is an organization that traces its origin to [Sorghan](../Locations/Sorghan.md). Originally a tradesman's union focused on establishing standards for weapons and armor coming out of the city and eliminating unfair business practices, the organization has since evolved into a sort of club for those who are training in any of the martial arts.
+The Martial Order of Weapon Standards and Etiquette (MOWSE), is an organization that traces its origin to [Sorghan](../Locations/Adosa/Sorghan.md). Originally a tradesman's union focused on establishing standards for weapons and armor coming out of the city and eliminating unfair business practices, the organization has since evolved into a sort of club for those who are training in any of the martial arts.
 
 Its various branches include (but are not limited to):
 

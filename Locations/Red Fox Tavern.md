@@ -1,1 +1,0 @@
-A tavern in [Cleoro](Cleoro.md). It is the largest tavern in all of [Cleoro](Cleoro.md). Owned by [Thurgus Redhorn](../Entities/Non-player%20Charatcters/Thurgus%20Redhorn.md).

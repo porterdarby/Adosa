@@ -29,7 +29,7 @@ Date: 2022-08-15
 		* Entered into the group, welcomed by [The Party](../Entities/Player%20Characters/The%20Party.md)
 * Goals:
 	* [Uuth](../Entities/Player%20Characters/Uuth.md): Seeking to stop disasters that have not yet occurred.
-		* Saw the town of [Cleoro](../Locations/Cleoro.md) in fire
+		* Saw the town of [Cleoro](../Locations/Adosa/Cleoro.md) in fire
 		* Found [The Party](../Entities/Player%20Characters/The%20Party.md) at [[the boot]]
 * "But more importantly, what is the clue that binds you?"
 	* "Why did you stay together?"
@@ -37,7 +37,7 @@ Date: 2022-08-15
 	* [Silas Clarke](../Entities/Player%20Characters/Silas%20Clarke.md):
 		* "We've made highways safe to travel"
 		* We've helped an individual leave a temple where they were stuck for eternity
-* "You all... first met... in [Cleoro](../Locations/Cleoro.md). But where was the first time that you all first stand together, sit together, or come together? [Darcough Damar](../Entities/Player%20Characters/Darcough%20Damar.md), where did the [five of you](../Entities/Player%20Characters/The%20Party.md) first meet together?"
+* "You all... first met... in [Cleoro](../Locations/Adosa/Cleoro.md). But where was the first time that you all first stand together, sit together, or come together? [Darcough Damar](../Entities/Player%20Characters/Darcough%20Damar.md), where did the [five of you](../Entities/Player%20Characters/The%20Party.md) first meet together?"
 	* [Darcough Damar](../Entities/Player%20Characters/Darcough%20Damar.md): Came across some bandits, helped by the group
 * "[Golem](../Entities/Player%20Characters/Golem.md), how did you all fair?"
 	* The other 4 came up on [Darcough](../Entities/Player%20Characters/Darcough%20Damar.md) fighting the bandits. [Darcough](../Entities/Player%20Characters/Darcough%20Damar.md) was in over his head, and the rest have been able to save.
@@ -48,7 +48,7 @@ Date: 2022-08-15
 * "[Yta](../Entities/Non-player%20Charatcters/Yta.md): [Dewende](../Entities/Player%20Characters/Dewende%20Merigar.md), who is your enemy/rival?"
 	* [Myrrdin the Illusionist](../Entities/Non-player%20Charatcters/Myrrdin%20the%20Illusionist.md): An illusionist who trapped [Dewende](../Entities/Player%20Characters/Dewende%20Merigar.md) inside a maze for a week
 * [Yta](../Entities/Non-player%20Charatcters/Yta.md): "[Silas](../Entities/Player%20Characters/Silas%20Clarke.md), what is your current objective?"
-	* "Last we spoke to [Idrissa](../Entities/Non-player%20Charatcters/Idrissa.md), she had told us that there was [Imp](../Entities/Non-player%20Charatcters/Imp.md) in [Cleoro](../Locations/Cleoro.md), stirring up trouble. She asked us to look into him. He didn't have any information on him, but was tasked to watch over the city"
+	* "Last we spoke to [Idrissa](../Entities/Non-player%20Charatcters/Idrissa.md), she had told us that there was [Imp](../Entities/Non-player%20Charatcters/Imp.md) in [Cleoro](../Locations/Adosa/Cleoro.md), stirring up trouble. She asked us to look into him. He didn't have any information on him, but was tasked to watch over the city"
 * _[retcon of the wizard]_
 * [Yta](../Entities/Non-player%20Charatcters/Yta.md): "But [Darcough](../Entities/Player%20Characters/Darcough%20Damar.md), as you started to look around the city for the imp, it was not what you seemed. [...] What caused you to question your current objective?"
 	* [Darcough](../Entities/Player%20Characters/Darcough%20Damar.md): "Not all fights are winnable at this point, we may not be strong enough"
@@ -58,7 +58,7 @@ Date: 2022-08-15
 * [Yta](../Entities/Non-player%20Charatcters/Yta.md): "There are still things left unknown to all who are present at the moment. And just between you and me, [Silas](../Entities/Player%20Characters/Silas%20Clarke.md), what poses a unrecognized risk that will catch everyone off gaurd?"
 	* ~~[Silas](../Entities/Player%20Characters/Silas%20Clarke.md): "There is a warrant out for all of our arrests for an alleged crime that we know that we haven't committed, that the [city magistrate](../Entities/Non-player%20Charatcters/city%20magistrate.md) truly believes that we are guilty"~~
 * [Yta](../Entities/Non-player%20Charatcters/Yta.md): "[Dewende](../Entities/Player%20Characters/Dewende%20Merigar.md), how close are you to your current obejctive, and what is the shape of the ground under your boots?"
-	* [Dewind](../Entities/Player%20Characters/Dewende%20Merigar.md): "I can feel my foot tapping on a wooden floor, with a room below it. ... I think I'm on a stage. And we were just starting to get some informatoin about this... [tower](../Locations/tower.md). I've never been to this town before, but this [tower](../Locations/tower.md) in [Cleoro](../Locations/Cleoro.md)... why does it signify struggles?"
+	* [Dewind](../Entities/Player%20Characters/Dewende%20Merigar.md): "I can feel my foot tapping on a wooden floor, with a room below it. ... I think I'm on a stage. And we were just starting to get some informatoin about this... [tower](../Locations/tower.md). I've never been to this town before, but this [tower](../Locations/tower.md) in [Cleoro](../Locations/Adosa/Cleoro.md)... why does it signify struggles?"
 
 ---
 
@@ -66,15 +66,15 @@ Date: 2022-08-15
 	* Trying to tell them it can be used to stop calamity
 * Applause breaks out from the audience
 * [Dewende](../Entities/Player%20Characters/Dewende%20Merigar.md) hears in your ear (and the rest of [The Party](../Entities/Player%20Characters/The%20Party.md) can hear) from [Yta](../Entities/Non-player%20Charatcters/Yta.md) "and why here?"
-	* "The [Red Fox Tavern](../Locations/Red%20Fox%20Tavern.md) is the largest tavern in all of [Cleoro](../Locations/Cleoro.md), it just makes sense".
+	* "The [Red Fox Tavern](../Locations/Adosa/Red%20Fox%20Tavern.md) is the largest tavern in all of [Cleoro](../Locations/Adosa/Cleoro.md), it just makes sense".
 	* [Silas](../Entities/Player%20Characters/Silas%20Clarke.md): "We've heard rumors about people who have interacted with [the Imp](../Entities/Non-player%20Charatcters/Imp.md)"
-* ~~[Yta](../Entities/Non-player%20Charatcters/Yta.md): "[Darcough](../Entities/Player%20Characters/Darcough%20Damar.md), you know about what awaits you outside the [Red Fox Tavern](../Locations/Red%20Fox%20Tavern.md), and what unexpected tool did you bring with you?"~~
+* ~~[Yta](../Entities/Non-player%20Charatcters/Yta.md): "[Darcough](../Entities/Player%20Characters/Darcough%20Damar.md), you know about what awaits you outside the [Red Fox Tavern](../Locations/Adosa/Red%20Fox%20Tavern.md), and what unexpected tool did you bring with you?"~~
 * [Yta](../Entities/Non-player%20Charatcters/Yta.md): "[Silas](../Entities/Player%20Characters/Silas%20Clarke.md), you know that in a crowd this size and in a city this size you know you will need to follow it immediately, to whatever end ahead of you. You have learned things that you are afraid of, enemies that have been watching, waiting for you to make a mistake. But you have been preparing, you have something. What are you headed towards, and what unexpected tool have you brought to deal with it?"
 	* [Silas](../Entities/Player%20Characters/Silas%20Clarke.md): "We have recently have a run-in with a criminal organization of werewolves, and we've brought silver-tipped arrows to fend them off. Oh, it's also a full moon."
-* [Yta](../Entities/Non-player%20Charatcters/Yta.md): "I didn't realize that denizens of [Ichana](../Locations/Ichana.md) had made their way this far east"
+* [Yta](../Entities/Non-player%20Charatcters/Yta.md): "I didn't realize that denizens of [Ichana](../Locations/Ichana/Ichana.md) had made their way this far east"
 * [Yta](../Entities/Non-player%20Charatcters/Yta.md): "The hours is late. [Dewende](../Entities/Player%20Characters/Dewende%20Merigar.md), your voice grows tired in your throat. ... All of you hear a creaking, a heavy groaning of the doors towards the front, immediately proceeding a breaking, a crunching."
 	* The scratching of claws; a giant 6-armed werewolf mutant.
-* Someone in this crowd has the information that you all want; a tip-off from [Idrissa](../Entities/Non-player%20Charatcters/Idrissa.md)  that the one contact about [the Imp](../Entities/Non-player%20Charatcters/Imp.md) is here tonight. [The Blood Hunters](../Entities/Non-player%20Charatcters/The%20Blood%20Hunters.md) of [Ichana](../Locations/Ichana.md) are trying to stop [you](../Entities/Player%20Characters/The%20Party.md) from getting this information.
+* Someone in this crowd has the information that you all want; a tip-off from [Idrissa](../Entities/Non-player%20Charatcters/Idrissa.md)  that the one contact about [the Imp](../Entities/Non-player%20Charatcters/Imp.md) is here tonight. [The Blood Hunters](../Entities/Non-player%20Charatcters/The%20Blood%20Hunters.md) of [Ichana](../Locations/Ichana/Ichana.md) are trying to stop [you](../Entities/Player%20Characters/The%20Party.md) from getting this information.
 * [The Party](../Entities/Player%20Characters/The%20Party.md) slays the beast. [Dewende](../Entities/Player%20Characters/Dewende%20Merigar.md) yells "Be calm! We have slain the beast!"
 * Crowd members are leaving, wanting to get home.
 * Confusion, but immediate panic is dying down

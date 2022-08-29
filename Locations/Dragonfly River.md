@@ -1,1 +1,0 @@
-**Dragonfly River** is a location in [Adosa](Adosa.md). It is located west of [Sorghan](Sorghan.md).

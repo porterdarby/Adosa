@@ -1,7 +1,7 @@
-* [Adosa](../Locations/Adosa.md) is magic-heavy
+* [Adosa](../Locations/Adosa/Adosa.md) is magic-heavy
 	* Meritocracy/mageocracy is main, local form of government
-	* 5 main mages of various renown with war with [Everiel](../Locations/Everiel.md).
-* [Everiel](../Locations/Everiel.md) -- country to the east
+	* 5 main mages of various renown with war with [Everiel](../Locations/Everiel/Everiel.md).
+* [Everiel](../Locations/Everiel/Everiel.md) -- country to the east
 
 * Party trajectory
 	* Party leader = explorer, dungeon delver, looking in ruins for artifacts. Set up an adventuring party ("The Party")
@@ -14,7 +14,7 @@
 	* One character wants to do a undead hunter-style chosen-one for character
 		* First awareness of vampire spawn, actively hunting down a small village
 * Immediate towns/cities ill-defined
-	* Started in [Sorghan](../Locations/Sorghan.md), headed to [[../Locations/Cleoro]] (trade city thanks to position at branch of roads, where [[Patron]] is from; political capital of the region)
+	* Started in [Sorghan](../Locations/Adosa/Sorghan.md), headed to [[../Locations/Adosa/Cleoro]] (trade city thanks to position at branch of roads, where [[Patron]] is from; political capital of the region)
 	* [[Triiste]]
 	* [[Oldrock]]
 	* [[Presborough]]

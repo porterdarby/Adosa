@@ -1,0 +1,1 @@
+A country to the north-west. There is no normal relationship to werewolves. A group of werewolves ([The Blood Hunters](../../Entities/Non-player%20Charatcters/The%20Blood%20Hunters.md)) are from there.
