@@ -1,1 +1,1 @@
-City in [Adosa](Adosa.md)
+City in [Adosa](Adosa.md).
