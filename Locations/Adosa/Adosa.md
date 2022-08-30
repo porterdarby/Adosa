@@ -7,6 +7,11 @@ This philosophy regarding the free use of magic has been at the center of the co
 And so, for the first time in a long time, the center of Adosa's affairs has shifted inwards. Those eastern cities, formerly the breadbasket of the country, are once again producing abundant food. The aristocracy have taken up the matter of the monstrous creatures within their own borders, and aim to have them eliminated wholesale. And those mages who had previously been tied up in military deployments are now allowed to freely pursue their craft, putting high bounties on the discovery of any artifact or ruin which might contain hints of long-lost arts.
 
 # Legal System
-* Violent and property crimes are prosecuted with extremely prejudice.
-* Violent and property crimes without magic are seen as barbaric, therefore prosecuted well.
-
+* No consistent profile to being arrested
+	* Mobs, torches, pitchforks
+* Heavily patchwork, based off specific region/province is going to vary greatly
+	* Underlying motifs:
+		* Violent and property crimes are prosecuted with extremely prejudice.
+		* Violent and property crimes without magic are seen as barbaric, therefore prosecuted well.
+		* The [Enchantment Task Force](../../__TODO/Enchantment%20Task%20Force.md) deals 
+* 

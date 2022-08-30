@@ -1,0 +1,1 @@
+[Sherff S'lltak](../Entities/Non-player%20Charatcters/Sherff%20S'lltak.md)'s "patron".

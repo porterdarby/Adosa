@@ -10,3 +10,16 @@ Date: 2022-08-29
 ---
 
 * [The Party](../Entities/Player%20Characters/The%20Party.md) is fighting a number of the guards (including [Sherff S'lltak](../Entities/Non-player%20Charatcters/Sherff%20S'lltak.md))
+* Taken to a cell underneath a warehouse.
+	* Third level of a basement.
+* [Sherff S'lltak](../Entities/Non-player%20Charatcters/Sherff%20S'lltak.md) starts interrogating [the Party](../Entities/Player%20Characters/The%20Party.md). [Golem](../Entities/Player%20Characters/Golem.md) uses Zone of Truth, but [Sherff S'lltak](../Entities/Non-player%20Charatcters/Sherff%20S'lltak.md) dispels it after being annoyed that the party wouldn't outright confess to the murder of [Noel McCardiganAgin](../Entities/Non-player%20Charatcters/Noel%20McCardiganAgin.md)
+	* [Noel McCardiganAgin](../Entities/Non-player%20Charatcters/Noel%20McCardiganAgin.md) was murdered in a sacrificial ritual outside of Cleoro 5 days ago.
+* [Sherff S'lltak](../Entities/Non-player%20Charatcters/Sherff%20S'lltak.md) is working for [Hailey Cindermace](../__TODO/Hailey%20Cindermace.md), saying that we broke laws _but is not a Sheriff_.
+* Apparently we are in [[Jail]].
+* Fight
+	* [Sherff S'lltak](../Entities/Non-player%20Charatcters/Sherff%20S'lltak.md) dies, and [Uuth](../Entities/Player%20Characters/Uuth.md) has been talking to [[Barnabas]]
+	* [Sherff S'lltak](../Entities/Non-player%20Charatcters/Sherff%20S'lltak.md) had a Hat of Gleaming
+* [Uuth](../Entities/Player%20Characters/Uuth.md) _somehow_ convinces [Barnabas](Barnabas) that they can help him force [Sherff S'lltak](../Entities/Non-player%20Charatcters/Sherff%20S'lltak.md)'s statements, trying to get [Barnabas](Barnabas) to help them out of [Jail](Jail)
+* [The Party](../Entities/Player%20Characters/The%20Party.md) attempts to escape with [Barnabas](Barnabas) after he casts Resilient Sphere because [Darcough](../Entities/Player%20Characters/Darcough%20Damar.md) burned the books that [Silas](../Entities/Player%20Characters/Silas%20Clarke.md) was going to cook.
+* [Barnabas](Barnabas) is picked up and everyone starts pushing through the darkness of the winding paths.
+* 
