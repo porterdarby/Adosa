@@ -10,4 +10,5 @@ Aliases: [Darcough]
 * His family is noble gaurdsman.
 * Lives for the fight, lives for the money
 * Fight, kill, get paid
-* 
+* [The Party](The%20Party.md) met Darcough when he was fighting along the roadside 2 years ago, in a situation that was clearly in over his head
+	* 

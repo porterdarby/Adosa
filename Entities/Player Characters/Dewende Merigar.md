@@ -13,3 +13,6 @@ Aliases: [Dewende]
 	* Some of the greatest evocationists and warcasters in [Adosa](../../Locations/Adosa/Adosa.md).
 * Wants to help, not hurt
 * Bard came through town
+* Looking for trinkets/artifacts
+	* Looking for arcane things
+	* 
