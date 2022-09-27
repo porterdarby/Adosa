@@ -1,0 +1,1 @@
+The gnomish owner of [the Hexed Essence](../../Locations/Adosa/The%20Hexed%20Essence.md).

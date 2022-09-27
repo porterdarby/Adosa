@@ -101,5 +101,5 @@ Date: 2022-08-15
 	* Number of the towns guards are making their way into the room
 	* The head guard begins to move forward towards [Uuth](../Entities/Player%20Characters/Uuth.md)
 	* "You and yours are wanted for murder. Of the noble variety."
-	* "[Uuth](../Entities/Player%20Characters/Uuth.md) burned [Noel McCardiganAgin](../Entities/Non-player%20Charatcters/Noel%20McCardiganAgin.md) to death"
+	* "[Uuth](../Entities/Player%20Characters/Uuth.md) burned [Noel McCardiganagin](../Entities/Non-player%20Charatcters/Noel%20McCardiganagin.md) to death"
 * Uuth is manacled, [Silas](../Entities/Player%20Characters/Silas%20Clarke.md) has a knife to the throat of the sheriff. [Darcough](../Entities/Player%20Characters/Darcough%20Damar.md) throws the head of the were-minotaur at the gaurd trying to cuff him.

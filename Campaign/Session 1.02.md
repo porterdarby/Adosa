@@ -2,7 +2,7 @@
 Date: 2022-09-12
 ---
 
-[Session 1.01](../Campaign/Session%201.01.md) <- -> [[Session Y]]
+[Session 1.01](Session%201.01.md) <- -> [Session 1.03](Session%201.03.md)
 
 ---
 

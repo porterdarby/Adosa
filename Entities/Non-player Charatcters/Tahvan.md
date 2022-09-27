@@ -1,0 +1,1 @@
+Owner of the [En Passant](../../Locations/Adosa/En%20Passant.md)

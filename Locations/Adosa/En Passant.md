@@ -1,0 +1,1 @@
+A pawn shop owned by [Tahvan](../../Entities/Non-player%20Charatcters/Tahvan.md) in [Cleoro](Cleoro.md). [The Party](../../Entities/Player%20Characters/The%20Party.md) tends to go here to sell off found items.

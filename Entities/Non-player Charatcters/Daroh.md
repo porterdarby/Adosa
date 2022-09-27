@@ -1,0 +1,1 @@
+Elf that [Silas](../Player%20Characters/Silas%20Clarke.md) met along the road. Said that the continual burnings brought rewnewal.

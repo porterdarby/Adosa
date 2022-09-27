@@ -1,0 +1,1 @@
+Shift-eyed dwarf in [Adosa](../../Locations/Adosa/Adosa.md).

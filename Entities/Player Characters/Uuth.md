@@ -13,3 +13,5 @@ Aliases: []
 * Plagued by visions of fire, towards destiny
 	* Takes him to sick children, libraries, places of need
 * Doesn't like to purchase things, makes him feel arrogant
+* [Nibby](../Non-player%20Charatcters/Nibby.md) says that Uuth might've sat with a dying unicorn, giving Uuth his powers
+* 
